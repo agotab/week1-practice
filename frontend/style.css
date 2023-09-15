@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section.bg-brown {  
+    background-color: rgb(53, 85, 43);
+}
+
+section.bg-red {
+    background-color: red;
+}
+
+section.bg-yellow {
+    background-color: yellow;
+}
+
+section.bg-gray {
+    background-color: gray;
+}
+
+section.bg-blue {
+    background-color: blue;
+}
